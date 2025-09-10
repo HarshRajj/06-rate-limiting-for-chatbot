@@ -15,8 +15,8 @@ A minimal CLI chatbot using LangChain and Google Gemini 2.0 Flash, enhanced with
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/HarshRajj/intern-2025-q6.git
-    cd intern-2025-q6
+    git clone https://github.com/HarshRajj/06-rate-limiting-for-chatbot.git
+    cd 06-rate-limiting-for-chatbot
     ```
 
 2. **Install dependencies:**

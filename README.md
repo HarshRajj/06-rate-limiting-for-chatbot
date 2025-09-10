@@ -1,4 +1,4 @@
-# Q6: Rate-Limit Guard Chatbot
+# Rate-Limit Guard Chatbot
 
 ## Overview
 
